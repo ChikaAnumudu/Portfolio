@@ -474,14 +474,12 @@ span{
     .home-img img{
         width: 90vw;
     }
-    .about img{
-        width: 70vw;
-        margin-top: 4rem;
-        display: none;
-    }
+    
     .about-img img{
        /* width: 90vw;*/
-    }@media (max-width: 1200px){
+        display: none;
+    }
+    @media (max-width: 1200px){
     html {
         font-size: 55%;
     }
