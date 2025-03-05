@@ -25,7 +25,7 @@
     }
 }
 
-@media (max-width: 768px, 365px){
+@media (max-width: 768px){
     #menu-icon{
         display: block;
     }
@@ -100,8 +100,13 @@
     .home-img img{
         width: 90vw;
     }
+    .about img{
+        width: 70vw;
+        margin-top: 4rem;
+        display: none;
+    }
     .about-img img{
-        width: 90vw;
+       /* width: 90vw;*/
     }
     .footer{
         flex-direction: column-reverse;
