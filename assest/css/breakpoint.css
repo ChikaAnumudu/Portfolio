@@ -68,6 +68,9 @@
     .about-content{
         right: 2%;
     }
+    about-img img{
+       display: none;
+    }
     .about img{
         width: 70vw;
         margin-top: 4rem;
