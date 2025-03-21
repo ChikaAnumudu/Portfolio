@@ -68,13 +68,8 @@
     .about-content{
         right: 2%;
     }
-    .about-img{
+    .about-img img{
        display: none;
-    }
-    .about img{
-        width: 70vw;
-        margin-top: 4rem;
-        display: none;
     }
     .services h2{
         margin-bottom: 3rem;
